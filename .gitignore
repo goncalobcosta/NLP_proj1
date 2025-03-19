@@ -1,0 +1,8 @@
+complaints.csv
+consumer_complaints_processed_full.csv
+consumer_complaints_processed.csv
+consumer_complaints_undersampled.csv
+consumer_complaints_undersampled_oversampled_smote.csv.gz
+logistic_regression_ngrams_tfidf.joblib
+naive_bayes_ngrams_tfidf.joblib
+tfidf_ngrams_vectorizer.joblib
